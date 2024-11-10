@@ -99,7 +99,7 @@ namespace Freelancer_Management_API.Controllers
 
             return NoContent();
         }
-        #endregion
+        #endregion  
 
         #region deletion
         // DELETE: api/freelancers/5
